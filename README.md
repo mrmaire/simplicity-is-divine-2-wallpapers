@@ -1,3 +1,3 @@
 # simplicity-is-divine-2-wallpapers
 
-Various Wallpapers
+Various Wallpapers created with Inkscape.
